@@ -7,35 +7,35 @@ Week 1
 Introduction
 
 Linear Regression with One Variable
-
 Linear Algebra Review
 
-Welcome
-Introduction
-Review
-Other Materials
-Model and Cost Function
-Parameter Learning
-Review
-Linear Algebra Review
-Review
-Quiz: Introduction
-Quiz: Linear Regression with One Variable
+  Welcome
+  Introduction
+  Review
+  Other Materials
+  Model and Cost Function
+  Parameter Learning
+  Review
+  Linear Algebra Review
+  Review
+  Quiz: Introduction
+  Quiz: Linear Regression with One Variable
+
 Week 2
 Linear Regression with Multiple Variables
-
 Octave/Matlab Tutorial
 
-Environment Setup Instructions
-Multivariate Linear Regression
-Computing Parameters Analytically
-Submitting Programming Assignments
-Review
-Octave/Matlab Tutorial
-Review
-Quiz: Linear Regression with Multiple Variables
-Quiz: Octave/Matlab Tutorial
-Programming Assignment: Linear Regression
+  Environment Setup Instructions
+  Multivariate Linear Regression
+  Computing Parameters Analytically
+  Submitting Programming Assignments
+  Review
+  Octave/Matlab Tutorial
+  Review
+  Quiz: Linear Regression with Multiple Variables
+  Quiz: Octave/Matlab Tutorial
+  Programming Assignment: Linear Regression
+
 Week 3
 Logistic Regression
 
