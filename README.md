@@ -3,7 +3,8 @@ Completed assignments from Coursera Machine Learning Class by Andrew Ng - Sep 20
 
 Syllabus
 
-Week 1
+# coursera-ml
+
 
 Introduction
 
