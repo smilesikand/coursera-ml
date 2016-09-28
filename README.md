@@ -3,8 +3,7 @@ Completed assignments from Coursera Machine Learning Class by Andrew Ng - Sep 20
 
 Syllabus
 
-# coursera-ml
-
+# Week 1
 
 Introduction
 
@@ -21,7 +20,7 @@ Linear Algebra Review
   Linear Algebra Review
   
 
-Week 2
+# Week 2
 
 Linear Regression with Multiple Variables
 
@@ -37,7 +36,8 @@ Octave/Matlab Tutorial
   
   Octave/Matlab Tutorial
   
-Week 3
+# Week 3
+
 Logistic Regression
 
 Regularization
