@@ -5,20 +5,16 @@ Syllabus
 
 # Week 1
 
-Introduction
-
-Linear Regression with One Variable
-
-Linear Algebra Review
-  
   Introduction
+
+  Linear Regression with One Variable
+
+  Linear Algebra Review
     
   Model and Cost Function
   
   Parameter Learning
-  
-  Linear Algebra Review
-  
+    
 
 # Week 2
 
