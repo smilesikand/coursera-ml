@@ -17,7 +17,6 @@ sigma = zeros(1, size(X, 2));
 %               standard deviation of each feature and divide
 %               each feature by it's standard deviation, storing
 %               the standard deviation in sigma. 
-%
 %               Note that X is a matrix where each column is a 
 %               feature and each row is an example. You need 
 %               to perform the normalization separately for 
@@ -26,7 +25,12 @@ sigma = zeros(1, size(X, 2));
 % Hint: You might find the 'mean' and 'std' functions useful.
 %       
 
+for i = 1:size(X, 2)
 
+    mu (:,i)= mean(X_norm(:,i));
+    sigma (:,i) = std(X_norm(:,i));
+	X_norm(:,i) = (X_norm(:,i) - mu(:,i)) / sigma(:,i);
+end;
 
 
 

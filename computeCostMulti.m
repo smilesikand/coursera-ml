@@ -15,8 +15,9 @@ J = 0;
 
 
 
-
-
+difference = (X * theta - y);
+vector = difference' * difference;
+J = (1/(2*m)) * vector;
 % =========================================================================
 
 end

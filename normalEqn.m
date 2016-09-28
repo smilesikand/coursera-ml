@@ -10,6 +10,9 @@ theta = zeros(size(X, 2), 1);
 %               to linear regression and put the result in theta.
 %
 
+yolo = pinv(X' * X);
+theta = yolo * X' * y;
+
 % ---------------------- Sample Solution ----------------------
 
 
