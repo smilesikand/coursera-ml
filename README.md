@@ -5,8 +5,6 @@ Syllabus
 
 # Week 1
 
-  Introduction
-
   Linear Regression with One Variable
 
   Linear Algebra Review
@@ -18,53 +16,46 @@ Syllabus
 
 # Week 2
 
-Linear Regression with Multiple Variables
-
-Octave/Matlab Tutorial
-
-  Environment Setup Instructions
+  Octave/Matlab Tutorial
   
   Multivariate Linear Regression
  
   Computing Parameters Analytically
   
-  Submitting Programming Assignments
-  
-  Octave/Matlab Tutorial
   
 # Week 3
 
-Logistic Regression
+  Logistic Regression
 
-Regularization
+  Regularization
 
-Classification and Representation
-Logistic Regression Model
-Multiclass Classification
-Review
-Solving the Problem of Overfitting
-Review
-Quiz: Logistic Regression
-Quiz: Regularization
-Programming Assignment: Logistic Regression
-Week 4
-Neural Networks: Representation
+  Classification and Representation
 
-Motivations
-Neural Networks
-Applications
-Review
-Quiz: Neural Networks: Representation
-Programming Assignment: Multi-class Classification and Neural Networks
-Week 5
-Neural Networks: Learning
+  Logistic Regression Model
 
-Cost Function and Backpropagation
-Backpropagation in Practice
-Application of Neural Networks
-Review
-Quiz: Neural Networks: Learning
-Programming Assignment: Neural Network Learning
+  Multiclass Classification
+
+
+# Week 4
+
+  Neural Networks: Representation
+
+  Motivations
+
+  Neural Networks
+
+  Applications
+
+# Week 5
+
+  Neural Networks: Learning
+
+  Cost Function and Backpropagation
+  
+  Backpropagation in Practice
+  
+  Application of Neural Networks
+
 Week 6
 Advice for Applying Machine Learning
 
